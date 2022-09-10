@@ -1,4 +1,4 @@
-# dojo_flutter
+# Dojo Flutter
 
 A new Flutter project.
 
